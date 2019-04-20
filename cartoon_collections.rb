@@ -1,5 +1,5 @@
 def roll_call_dwarves# code an argument here
-roll_call_dwarves do ["Doc", "Dopey", "Bashful", "Grumpy"]
+
 end
 
 def summon_captain_plane # code an argument here 
