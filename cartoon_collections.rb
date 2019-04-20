@@ -1,7 +1,7 @@
-def roll_call_dwarves 
+def roll_call_dwarves# code an argument here
 end
 
-def summon_captain_plane 
+def summon_captain_plane # code an argument here 
 end
 
 def long_planeteer_calls# code an argument here
