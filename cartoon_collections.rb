@@ -1,5 +1,7 @@
 def roll_call_dwarves# code an argument here
-
+dwarves index do 
+  x = number 
+  n = name 
 end
 
 def summon_captain_plane # code an argument here 
