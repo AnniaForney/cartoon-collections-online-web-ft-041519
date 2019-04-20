@@ -27,4 +27,6 @@ find_the_cheese(snacks)
  
 soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 find_the_cheese(soup)
+ingredients = ["garlic", "rosemary", "bread"]
+find_the_cheese(ingredients)
 end
