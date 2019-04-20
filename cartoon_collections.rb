@@ -8,7 +8,7 @@ end
 
 def summon_captain_planet # code an argument here 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-planeteer_calls.collect {|x| 
+planeteer_calls.collect {|x| x + 
 end
 
 def long_planeteer_calls# code an argument here
